@@ -1,0 +1,46 @@
+<1> Menção a suas raízes, local de onde veio ou comunidades que considera.
+<2> Menção a Políciais ou atividades policiais sem abuso
+<3> Exaltação, Menção ou exemplo do Rap como instrumento social
+<4> Descrição de Criminosos ou Práticas de crime.
+<5> Consumo de drogas ilicitas ou por outrem
+<6> Desencoraja a vida do crime ou alerta sobre seus perigos
+<7> Menção, agradecimento ou preces a fé e crenças religiosas
+<8> Dá conselhos ou exemplos de boas virtudes, comportamentos, atitudes e altruísmo.
+<9> Denuncia de violência a e na sua comunidade
+<10> Relata ou encoraja uma vida batalhadora, trabalhando.
+<11> Menções de saudades a amigos e figuras admiráveis.
+<12> Violência Polícial e Abusos de poder contra população
+<13> Menção a políticos e forças armadas
+<14> Desejo ou vislumbre com prosperidade
+<15> Dá exemplo de sobrevivencia, percalços, dificuldades e/ou encoraja resiliência.
+<16> Pedidos de paz e prosperidade na favela
+<17> Luta de classes, aborda relações de pobres contra ricos e poderosos
+<18> Menção e usos de drogas lícitas
+<19> Aborda as consequencias do uso de drogas, desencoraja ou relata desejo de parar.
+<20> Negligencia do estado com pobres ou negros.
+<21> Exaltação, necessidade e outras menções a educação e professores.
+<22> Autoexaltação, autoafirmação, autoconfiança.
+<23> Conquistas, méritos e sonhos realizados.
+<24> Desvalorização ou problematização de dinheiro, fama e/ou bens materiais.
+<25> Respeito por mulher, trata como parceira ou parte importante de sua vida. Exceto familia.
+<26> Interesse sexual ou prática do ato com mulheres.
+<27> Relaciona ou oferece dinheiro, bens materiais ou viagens a mulher.
+<28> Presença, testemunho ou pessoas com Inveja, recalque, traição e interesse.
+<29> Mulher como ostentação, troféu ou submissa ao homem em troca de beneficios.
+<30> Desprezo, deboche ou ojeriza por outras pessoas ou por seus trabalhos.
+<31> Atitudes ou testemunho de superficialidade, falsidade, enganação ou futilidade.
+<32> Ostentação de Dinheiro, bens materiais ou viagens.
+<33> Desejo ou Afirmação de Independência de pessoas ou de julgamentos.
+<34> Ameaça a terceiros.
+<35> Porte, Posse ou apologia ao uso de Armas
+<36> Menção a clássicos ou lendas do rap nacional
+<37> Elogios, exaltação, ou reconhecimento de independencia da mulher
+<38> Interesses e pensamentos românticos ou menção a relacionamentos
+<39> Mulher como problemática, ciumenta, possessiva, mentirosa ou maluca.
+<40> Mulher tratada de forma pejorativa
+<41> Apologia ao tráfico de drogas ou a bandidos e o crime organizado
+<42> Tristeza, desanimo ou decepção
+<43> Auto analise, reflexão sobre si, buscando compreensão ou amadurecimento interno.
+<44> Despedidas, fins de relações, sejam amizades ou romances.
+<45> Menciona ou incentiva coragem ou atitudes corajosas
+<46> Escravidão, racismo, ativismo ou consciência sobre questões raciais.
